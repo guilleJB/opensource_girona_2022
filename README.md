@@ -1,1 +1,2 @@
-# opensource_girona_2022
+# Opensource Girona 2022
+## lighting talk
